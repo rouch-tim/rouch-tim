@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I'm Tim, from Paris. I’m becoming more passionate about Data Analysis every day and currently learning the ins and outs of SQL, R and Python. 
+
 <!--
 **rouch-tim/rouch-tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
