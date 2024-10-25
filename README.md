@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tim, from Paris. 
+I'm Tim, from Paris.<br>
 🌱 Becoming more passionate about Data Analysis every day and currently learning the ins and outs of SQL, R and Python. 
 
 <!--
